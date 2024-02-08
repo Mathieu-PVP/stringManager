@@ -12,14 +12,14 @@ Un module qui permet d'ajouter des méthodes complémentaires pour la manipulati
 - [<stringManager>.formatRemoveSpaces()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L94) - Formatte une chaîne de caractères en supprimant chaque espace.
 - [<stringManager>.formatCapitalize()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L104) - Formatte une chaîne de caractères en changeant le premier caractère de celle-ci en majuscule.
 - [<stringManager>.formatCapitalizeAll()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L114) - Formatte une chaîne de caractères en changeant le premier caractère de chaque mot de celle-ci en majuscule.
-- [<stringManager>.includesString()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L128) - Verifie si une chaîne de caractères B est présente dans la chaîne de caractère A.
-- [<stringManager>.includesOneFrom()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L142) - Verifie si une chaîne de caractères présente dans un tableau se trouve dans la chaîne de caractère A.
+- [<stringManager>.includesString()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L128) - Verifie si une chaîne de caractères B est présente dans la chaîne de caractères A.
+- [<stringManager>.includesOneFrom()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L142) - Verifie si une chaîne de caractères présente dans un tableau se trouve dans la chaîne de caractères A.
 - [<stringManager>.matchStringPercentage()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L155) - Calcule le pourcentage de concordance entre deux chaînes de caractères.
 - [<stringManager>.containsPhoneNumbers()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L177) - Permet de savoir si la chaîne de caractères contient des numéros de téléphone.
 - [<stringManager>.extractPhoneNumbers()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L187) - Permet d'extraire des numéros de téléphone présents dans une chaîne de caractères.
 - [<stringManager>.containsEmails()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L197) - Permet de savoir si la chaîne de caractères contient des adresses emails.
 - [<stringManager>.extractEmails()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L207) - Permet d'extraire des adresses e-mails présentes dans une chaîne de caractères.
-- [<stringManager>.toString()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L226) - Méthode permettant de changer la chaîne de caractère à manipuler.
+- [<stringManager>.toString()](https://github.com/Mathieu-PVP/stringManager/blob/main/lib/stringManager.js#L226) - Méthode permettant de récupérer la chaîne de caractères à manipuler.
 
 ## Installation
 ```
