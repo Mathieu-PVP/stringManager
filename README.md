@@ -26,12 +26,18 @@ Un module qui permet d'ajouter des méthodes complémentaires pour la manipulati
 npm install https://github.com/Mathieu-PVP/stringManager.git
 ```
 ## Exemples
-Importer la class `stringManager`
+Importer la class `stringManager` avec Node.js
 ```JS
 import StringManager from 'stringmanager';
 const strManager = new StringManager();
 ```
-
+Ou avec Javascript Vanilla (avoir live-server d'installé si les CORS bloquent l'accès)
+```JS
+<script type="module">
+    import StringManager from './node_modules/stringmanager/index.js';
+    const stringManager = new StringManager();
+</script>
+```
 1) Mettre une chaîne de caractères en capitales
 ```JS
 strManager.string = 'Ma chaîne de caractères';
