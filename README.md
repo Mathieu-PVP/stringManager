@@ -23,7 +23,7 @@ Un module qui permet d'ajouter des méthodes complémentaires pour la manipulati
 
 ## Installation
 ```
-npm install https://github.com/Mathieu-PVP/stringManage.git
+npm install https://github.com/Mathieu-PVP/stringManager.git
 ```
 ## Exemples
 Importer la class `stringManager`
