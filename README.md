@@ -32,7 +32,7 @@ import StringManager from 'stringmanager';
 const strManager = new StringManager();
 ```
 Ou avec Javascript Vanilla (avoir live-server d'installé si les CORS bloquent l'accès)
-```JS
+```HTML
 <script type="module">
     import StringManager from './node_modules/stringmanager/index.js';
     const stringManager = new StringManager();
