@@ -1,6 +1,7 @@
 {
   "name": "stringmanager",
   "version": "1.0.0",
+  "type": "module",
   "description": "Un module qui permet d'ajouter des méthodes complémentaires pour la manipulation des strings en javascript.",
   "main": "index.js",
   "directories": {

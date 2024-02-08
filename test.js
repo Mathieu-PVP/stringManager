@@ -1,6 +1,6 @@
 'use strict';
 
-const StringManager = require('./index');
+import StringManager from './index.js';
 const strManager = new StringManager();
 
 function errorColor(str) {

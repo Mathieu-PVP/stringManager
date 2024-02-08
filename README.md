@@ -28,7 +28,7 @@ npm install https://github.com/Mathieu-PVP/stringManager.git
 ## Exemples
 Importer la class `stringManager`
 ```JS
-const StringManager = require('stringmanager');
+import StringManager from 'stringmanager';
 const strManager = new StringManager();
 ```
 

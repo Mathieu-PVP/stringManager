@@ -1,3 +1,5 @@
 'use strict';
 
-module.exports = require('./lib/stringManager');
+import StringManager from './lib/stringManager.js';
+
+export default StringManager;
